@@ -1,0 +1,7 @@
+node_modules/
+.env
+tsconfig.json
+tsconfig.cjs.json
+tsconfig.base.json
+README.md
+eslintrc.json
