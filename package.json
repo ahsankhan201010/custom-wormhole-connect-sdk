@@ -1,6 +1,6 @@
 {
   "name": "@mak201010/wormhole-connect-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "main": "dist/cjs/src/index.js",
   "exports": {
